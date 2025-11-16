@@ -8,6 +8,12 @@
 
 ![схема](assets/images/dgrm_pufferfish.png)
 
+## 🔗 GitHub pet-проект
+
+> [![GitHub mark](assets/images/github-mark-white.png)](https://github.com/pufferfish-io)
+>
+> [**Pufferfish на GitHub**](https://github.com/pufferfish-io) — pet-проект с открытым кодом, где можно посмотреть исходники и релизы.
+
 # 🤖 Боты
 
 - [Telegram Bot](https://t.me/pufferfish_io_bot)
