@@ -10,6 +10,7 @@
 a.headerlink {
   display: none !important;
 }
+.md-header__button.md-icon[for="__drawer"],
 .md-toggle[data-md-toggle="drawer"] + label {
   display: none !important;
 }
@@ -68,4 +69,21 @@ body {
   border: 1px dashed rgba(56, 189, 248, 0.4);
   border-radius: 16px;
   margin: 1.5rem 0;
+}
+.promo-banner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: rgba(56, 189, 248, 0.08);
+  border-radius: 18px;
+  padding: 1rem 1.5rem;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  backdrop-filter: blur(10px);
+}
+.promo-banner img {
+  width: 48px;
+  height: 48px;
+}
+.promo-banner strong {
+  color: #fff;
 }

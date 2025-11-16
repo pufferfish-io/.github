@@ -1,8 +1,14 @@
 # TODO CUSTOM: update footer social links to desired icons
 extra:
   announcement:
-    content: ' '
-    type: custom-top
+    content: |
+      <div class="promo-banner">
+        <img src="assets/logo/png/logo_64.png" alt="Pufferfish" />
+        <div>
+          <strong>Pufferfish Platform</strong><br/>
+          Современная экосистема для обработки сообщений и OCR-ответов.
+        </div>
+      </div>
   footer:
     content: ' '
     type: custom-bottom
