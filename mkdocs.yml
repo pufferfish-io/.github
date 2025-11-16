@@ -1,5 +1,30 @@
 # TODO CUSTOM: update footer social links to desired icons
 extra:
+  generator: Pufferfish Platform Docs
+  meta:
+  - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
+      клиентам
+    name: description
+  - content: microservices, Kafka, Telegram, VK, OCR, doc2text, pufferfish
+    name: keywords
+  - content: Pufferfish Platform
+    property: og:title
+  - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
+      клиентам
+    property: og:description
+  - content: https://pufferfish-io.github.io/.github/assets/logo/pufferfish_logo.png
+    property: og:image
+  - content: https://pufferfish-io.github.io/.github/
+    property: og:url
+  - content: summary_large_image
+    name: twitter:card
+  - content: Pufferfish Platform
+    name: twitter:title
+  - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
+      клиентам
+    name: twitter:description
+  - content: https://pufferfish-io.github.io/.github/assets/logo/pufferfish_logo.png
+    name: twitter:image
   social:
   - icon: fontawesome/brands/github
     link: https://github.com/pufferfish-io
@@ -20,7 +45,9 @@ nav:
 plugins:
 - search
 - include-markdown
-site_description: Микросервисная экосистема для обработки сообщений Telegram и VK
+site_author: Pufferfish.io team
+site_description: Единая платформа для команд, которые строят масштабируемые сервисы
+  ответа клиентам
 site_name: Pufferfish Platform
 site_url: https://pufferfish-io.github.io/.github
 theme:
