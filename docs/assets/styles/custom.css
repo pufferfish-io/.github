@@ -1,8 +1,12 @@
 /* TODO CUSTOM: tweak branding styles */
-.md-content__inner>h1:first-of-type {
+.md-content__inner h1:first-of-type {
   display: none;
 }
 .md-header__title,
+.md-sidebar__inner .md-nav__title,
 .md-sidebar__inner .md-nav__item:first-child {
-  display: none;
+  display: none !important;
+}
+a.headerlink {
+  display: none !important;
 }
