@@ -4,7 +4,7 @@
        width="50%" />
 </p>
 
-<h2 align="center"><span style="font-weight:900">PUFFERFISH</span><br><span style="font-weight:100">архитектура, созданная для масштабирования</span></h2>
+<h2 align="center"><a href="https://github.com/pufferfish-io" style="font-weight:900">PUFFERFISH</a><br><span style="font-weight:100">архитектура, созданная для масштабирования</span></h2>
 
 ![схема](assets/images/dgrm_pufferfish.png)
 
