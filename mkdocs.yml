@@ -1,0 +1,25 @@
+site_name: Pufferfish Platform
+site_description: Микросервисная экосистема для обработки сообщений Telegram и VK
+site_url: https://pufferfish-io.github.io/.github
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+plugins:
+  - search
+  - include-markdown
+nav:
+  - Обзор: index.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - def_list
+  - attr_list
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pufferfish-io
