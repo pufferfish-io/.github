@@ -10,7 +10,7 @@
 
 ## 🔗 GitHub pet-проект
 
-> [![GitHub mark](assets/images/github-mark-white.png)](https://github.com/pufferfish-io)
+> [![GitHub mark](assets/images/github-mark-white_100.png)](https://github.com/pufferfish-io)
 >
 > [**Pufferfish на GitHub**](https://github.com/pufferfish-io) — pet-проект с открытым кодом, где можно посмотреть исходники и релизы.
 
