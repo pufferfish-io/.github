@@ -68,11 +68,11 @@
          style="border-radius:18px;" />
   </div>
   <div style="flex:1;min-width:240px;text-align:left;line-height:1.6;font-size:15px;">
-    <strong style="font-size:22px;color:#f8fafc;">Шамиль Алибеков</strong><br />
+    <strong style="font-size:22px;color:#f8fafc;">Шамиль<br>Алибеков</strong><br />
     Автор Pufferfish.
     <div style="height:14px;"></div>
-    <span style="opacity:0.7;">Телефон</span>: +7 926 395‑88‑97<br />
-    <span style="opacity:0.7;">Email</span>: <a href="mailto:alibekov.dev@gmail.com" style="color:#60a5fa;">alibekov.dev@gmail.com</a><br />
-    <span style="opacity:0.7;">Telegram</span>: <a href="https://t.me/alibekov_dev" style="color:#60a5fa;">@alibekov_dev</a>
+    +7 926 395‑88‑97<br />
+    <a href="mailto:alibekov.dev@gmail.com" style="color:#60a5fa;">alibekov.dev@gmail.com</a><br />
+    <a href="https://t.me/alibekov_dev" style="color:#60a5fa;">Telegram@alibekov_dev</a>
   </div>
 </div>
