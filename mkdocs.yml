@@ -12,7 +12,7 @@ extra:
   - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
       клиентам
     property: og:description
-  - content: https://pufferfish-io.github.io/.github/assets/logo/pufferfish_logo.png
+  - content: https://pufferfish-io.github.io/.github/assets/logo/png/logo_512.png
     property: og:image
   - content: https://pufferfish-io.github.io/.github/
     property: og:url
@@ -23,7 +23,7 @@ extra:
   - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
       клиентам
     name: twitter:description
-  - content: https://pufferfish-io.github.io/.github/assets/logo/pufferfish_logo.png
+  - content: https://pufferfish-io.github.io/.github/assets/logo/png/logo_512.png
     name: twitter:image
   social:
   - icon: fontawesome/brands/github
@@ -51,7 +51,7 @@ site_description: Единая платформа для команд, кото�
 site_name: Pufferfish Platform
 site_url: https://pufferfish-io.github.io/.github
 theme:
-  favicon: assets/logo/pufferfish_logo.png
+  favicon: assets/logo/favicon/favicon.ico
   features:
   - navigation.tabs
   - navigation.sections
@@ -61,7 +61,7 @@ theme:
   - feedback
   - footer
   language: ru
-  logo: assets/logo/pufferfish_logo.png
+  logo: assets/logo/png/logo_256.png
   name: material
   palette:
   - accent: teal
