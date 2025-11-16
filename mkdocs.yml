@@ -14,7 +14,7 @@ extra:
     property: og:description
   - content: https://pufferfish-io.github.io/.github/assets/logo/png/logo_512.png
     property: og:image
-  - content: https://pufferfish-io.github.io/
+  - content: https://pufferfish-io.github.io/.github/
     property: og:url
   - content: summary_large_image
     name: twitter:card
@@ -34,6 +34,8 @@ extra:
     link: https://vk.com/pufferfish_io
   - icon: material/web
     link: https://pufferfish-io.github.io/.github/
+extra_css:
+- assets/styles/custom.css
 markdown_extensions:
 - admonition
 - toc:
@@ -49,7 +51,7 @@ site_author: Pufferfish.io team
 site_description: Единая платформа для команд, которые строят масштабируемые сервисы
   ответа клиентам
 site_name: Pufferfish Platform
-site_url: https://pufferfish-io.github.io
+site_url: https://pufferfish-io.github.io/.github
 theme:
   favicon: assets/logo/favicon/favicon.ico
   features:
