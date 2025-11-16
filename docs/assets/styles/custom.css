@@ -10,6 +10,9 @@
 a.headerlink {
   display: none !important;
 }
+.md-toggle[data-md-toggle="drawer"] + label {
+  display: none !important;
+}
 
 body {
   background: linear-gradient(120deg, #020617, #0f172a);
