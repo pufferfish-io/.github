@@ -22,6 +22,14 @@ body {
 .md-footer {
   background: #050b18;
 }
+.md-footer,
+.md-footer-meta,
+.md-footer-meta .md-typeset {
+  color: #94a3b8;
+}
+.md-footer-meta .md-typeset a {
+  color: #38bdf8;
+}
 
 .md-main__inner {
   background: #060a16;
