@@ -1,5 +1,1 @@
----
-title: Обзор платформы
----
-
---8<-- "../profile/README.md"
+{% include-markdown "../profile/README.md" %}
