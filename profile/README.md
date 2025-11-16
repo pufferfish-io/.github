@@ -6,6 +6,25 @@
 
 <h2 align="center"><span style="font-weight:900">PUFFERFISH</span><br><span style="font-weight:100">архитектура, созданная для масштабирования</span></h2>
 
+<div >
+  <div style="display:flex;flex-wrap:wrap;gap:24px;align-items:center;max-width:720px;margin:0 auto;padding:24px 28px;background:#0f172a;border:1px solid #1f2937;border-radius:22px;color:#e5e7eb;">
+    <div style="flex:0 0 auto;">
+      <img src="assets/images/alibekov.png"
+           alt="Шамиль Алибеков"
+           width="170px"
+           style="border-radius:18px;" />
+    </div>
+    <div style="flex:1;min-width:240px;text-align:left;line-height:1.6;font-size:15px;">
+      <strong style="font-size:22px;color:#f8fafc;">Шамиль Алибеков</strong><br />
+      Автор Pufferfish.
+      <div style="height:14px;"></div>
+      <span style="opacity:0.7;">Телефон</span>: +7 926 395‑88‑97<br />
+      <span style="opacity:0.7;">Email</span>: <a href="mailto:alibekov.dev@gmail.com" style="color:#60a5fa;">alibekov.dev@gmail.com</a><br />
+      <span style="opacity:0.7;">Telegram</span>: <a href="https://t.me/alibekov_dev" style="color:#60a5fa;">@alibekov_dev</a>
+    </div>
+  </div>
+</div>
+
 ![схема](assets/images/dgrm_pufferfish.png)
 
 ## 🎯 Цель проекта
