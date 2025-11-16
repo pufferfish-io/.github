@@ -1,25 +1,42 @@
-site_name: Pufferfish Platform
-site_description: Микросервисная экосистема для обработки сообщений Telegram и VK
-site_url: https://pufferfish-io.github.io/.github
-theme:
-  name: material
-  language: ru
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: teal
-plugins:
-  - search
-  - include-markdown
-nav:
-  - Обзор: index.md
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - def_list
-  - attr_list
+# TODO CUSTOM: update footer social links to desired icons
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/pufferfish-io
+  - icon: fontawesome/brands/github
+    link: https://github.com/pufferfish-io
+  - icon: fontawesome/brands/telegram
+    link: https://t.me/pufferfish_io
+  - icon: fontawesome/brands/vk
+    link: https://vk.com/pufferfish_io
+  - icon: material/web
+    link: https://pufferfish-io.github.io/.github/
+markdown_extensions:
+- admonition
+- toc:
+    permalink: true
+- def_list
+- attr_list
+nav:
+- Обзор: index.md
+plugins:
+- search
+- include-markdown
+site_description: Микросервисная экосистема для обработки сообщений Telegram и VK
+site_name: Pufferfish Platform
+site_url: https://pufferfish-io.github.io/.github
+theme:
+  favicon: assets/logo/pufferfish_logo.png
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  hide:
+  - toc
+  - feedback
+  - footer
+  language: ru
+  logo: assets/logo/pufferfish_logo.png
+  name: material
+  palette:
+  - accent: teal
+    primary: indigo
+    scheme: default
