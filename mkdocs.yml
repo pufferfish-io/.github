@@ -17,6 +17,8 @@ extra:
   - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
       клиентам
     name: description
+  - content: noindex, nofollow
+    name: robots
   - content: microservices, Kafka, Telegram, VK, OCR, doc2text, pufferfish
     name: keywords
   - content: Pufferfish Platform
