@@ -85,4 +85,4 @@
 
 | Автор Pufferfish                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![фото автора](assets/images/alibekov.png)<br>[+7 926 395‑88‑97](tel:+7 926 395‑88‑97)<br>[alibekov.dev@gmail.com](mailto:alibekov.dev@gmail.com)<br>[Telegram@alibekov_dev](https://t.me/alibekov_dev) |
+| ![фото автора](assets/images/alibekov.png)<br>[+7 926 395‑88‑97](tel:+7 926 395‑88‑97)<br>[alibekov.dev@gmail.com](mailto:alibekov.dev@gmail.com)<br>[Telegram@alibekov_dev](https://t.me/alibekov_dev)<br>[Резюме на  hh.ru](https://hh.ru/resume/7ca1d8ecff0fad4d7d0039ed1f3339686c6d38) |
