@@ -1,5 +1,11 @@
 # TODO CUSTOM: update footer social links to desired icons
 extra:
+  announcement:
+    content: ' '
+    type: custom-top
+  footer:
+    content: ' '
+    type: custom-bottom
   generator: Pufferfish Platform Docs
   meta:
   - content: Единая платформа для команд, которые строят масштабируемые сервисы ответа
@@ -57,6 +63,7 @@ theme:
   features:
   - navigation.sections
   - navigation.expand
+  - header.autohide
   hide:
   - feedback
   - footer
@@ -64,6 +71,6 @@ theme:
   logo: assets/logo/png/logo_256.png
   name: material
   palette:
-  - accent: teal
-    primary: indigo
-    scheme: default
+  - accent: indigo
+    primary: grey
+    scheme: slate

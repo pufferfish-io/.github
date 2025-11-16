@@ -10,3 +10,43 @@
 a.headerlink {
   display: none !important;
 }
+
+body {
+  background: #050505;
+  color: #f5f5f5;
+}
+
+.md-header,
+.md-nav,
+.md-main__inner,
+.md-sidebar,
+.md-footer {
+  background: #0e0e0e;
+}
+
+.md-content__inner,
+.md-nav__link,
+.md-typeset p,
+.md-typeset li {
+  color: #ededed;
+}
+
+.md-typeset strong {
+  color: #ffffff;
+}
+
+.md-typeset a {
+  color: #8ab4f8;
+}
+
+.md-header__button.md-logo img {
+  filter: grayscale(100%);
+}
+
+.custom-top,
+.custom-bottom {
+  min-height: 60px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed rgba(255, 255, 255, 0.1);
+  margin: 1.5rem 0;
+}
