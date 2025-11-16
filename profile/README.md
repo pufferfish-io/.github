@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="../docs/assets/logo/png/logo_1024.png"
+  <img src="assets/logo/png/logo_1024.png"
        alt="схема"
        width="50%" />
 </p>
 
 <h2 align="center"><span style="font-weight:900">PUFFERFISH</span><br><span style="font-weight:100">архитектура, созданная для масштабирования</span></h2>
 
-![схема](/docs/assets/images/dgrm_pufferfish.png)
+![схема](assets/images/dgrm_pufferfish.png)
 
 ## 🎯 Цель проекта
 

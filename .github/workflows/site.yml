@@ -14,8 +14,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Sync profile README into MkDocs index
-        run: cp profile/README.md docs/index.md
+      - name: Prepare MkDocs sources
+        run: |
+          mv profile docs
+          mv docs/README.md docs/index.md
 
       - name: Set up Python
         uses: actions/setup-python@v5
