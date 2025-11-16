@@ -1,3 +1,5 @@
+![схема](./assets/diagram_pufferfish.png)
+
 ## 🎯 Цель проекта
 
 - Наглядно показать современный подход к микросервисам, которые выдерживают высокую нагрузку и остаются управляемыми.
@@ -28,21 +30,23 @@
 4. **message-responder-ocr + doc2text** обмениваются по gRPC. doc2text скачивает файл из S3, конвертирует в Base64, отправляет в Yandex Vision, получает текст и возвращает его по gRPC назад.
 5. **response-preparer + sender** настраивают ответ под конкретный канал (Telegram/VK), формируют запросы к API и доставляют результат пользователю. Все сервисы логируют действия, используют единые ENV-префиксы и развертываются через CI/CD.
 
+![схема](assets/diagram_pufferfish.png)
+
 ---
 
 ## 📚 Репозитории экосистемы
 
-| Компонент | Описание |
-|-----------|----------|
-| [deploy](https://github.com/pufferfish-io/deploy) | CI/CD, Kubernetes-манифесты, инфраструктура. |
-| [doc2text](https://github.com/pufferfish-io/doc2text) | gRPC‑сервис для распознавания текста через Yandex Vision. |
-| [message-responder](https://github.com/pufferfish-io/message-responder) | Решение сценария и подготовка ответов. |
-| [message-responder-ocr](https://github.com/pufferfish-io/message-responder-ocr) | Проксирование запросов в doc2text. |
-| [telegram-forwarder](https://github.com/pufferfish-io/telegram-forwarder) | Webhook-приёмник Telegram. |
-| [telegram-normalizer](https://github.com/pufferfish-io/telegram-normalizer) | Нормализация Telegram-сообщений. |
-| [telegram-response-preparer](https://github.com/pufferfish-io/telegram-response-preparer) | Подготовка ответов для Telegram. |
-| [telegram-sender](https://github.com/pufferfish-io/telegram-sender) | Сервис отправки сообщений в Telegram. |
-| [vk-forwarder](https://github.com/pufferfish-io/vk-forwarder) | Webhook-приёмник ВКонтакте. |
-| [vk-normalizer](https://github.com/pufferfish-io/vk-normalizer) | Нормализация событий ВКонтакте. |
-| [vk-response-preparer](https://github.com/pufferfish-io/vk-response-preparer) | Подготовка ответов для ВКонтакте. |
-| [vk-sender](https://github.com/pufferfish-io/vk-sender) | Отправка сообщений во ВКонтакте. |
+| Компонент                                                                                 | Описание                                                  |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [deploy](https://github.com/pufferfish-io/deploy)                                         | CI/CD, Kubernetes-манифесты, инфраструктура.              |
+| [doc2text](https://github.com/pufferfish-io/doc2text)                                     | gRPC‑сервис для распознавания текста через Yandex Vision. |
+| [message-responder](https://github.com/pufferfish-io/message-responder)                   | Решение сценария и подготовка ответов.                    |
+| [message-responder-ocr](https://github.com/pufferfish-io/message-responder-ocr)           | Проксирование запросов в doc2text.                        |
+| [telegram-forwarder](https://github.com/pufferfish-io/telegram-forwarder)                 | Webhook-приёмник Telegram.                                |
+| [telegram-normalizer](https://github.com/pufferfish-io/telegram-normalizer)               | Нормализация Telegram-сообщений.                          |
+| [telegram-response-preparer](https://github.com/pufferfish-io/telegram-response-preparer) | Подготовка ответов для Telegram.                          |
+| [telegram-sender](https://github.com/pufferfish-io/telegram-sender)                       | Сервис отправки сообщений в Telegram.                     |
+| [vk-forwarder](https://github.com/pufferfish-io/vk-forwarder)                             | Webhook-приёмник ВКонтакте.                               |
+| [vk-normalizer](https://github.com/pufferfish-io/vk-normalizer)                           | Нормализация событий ВКонтакте.                           |
+| [vk-response-preparer](https://github.com/pufferfish-io/vk-response-preparer)             | Подготовка ответов для ВКонтакте.                         |
+| [vk-sender](https://github.com/pufferfish-io/vk-sender)                                   | Отправка сообщений во ВКонтакте.                          |
