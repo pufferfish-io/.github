@@ -43,11 +43,11 @@ extra:
   - icon: fontawesome/brands/github
     link: https://github.com/pufferfish-io
   - icon: fontawesome/brands/telegram
-    link: https://t.me/pufferfish_io
+    link: https://t.me/pufferfish_io_bot
   - icon: fontawesome/brands/vk
-    link: https://vk.com/pufferfish_io
-  - icon: material/web
-    link: https://pufferfish-io.github.io/.github/
+    link: https://vk.com/pufferfishio
+  - icon: material/briefcase
+    link: https://hh.ru/resume/7ca1d8ecff0fad4d7d0039ed1f3339686c6d38
 extra_css:
 - assets/styles/custom.css
 markdown_extensions:
