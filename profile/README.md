@@ -10,15 +10,15 @@
 
 ---
 
-# [🤖 Telegram БОТ](https://t.me/pufferfish_io_bot)
+## [🤖 Telegram БОТ](https://t.me/pufferfish_io_bot)
 
 ---
 
-# [🤖 VK БОТ](https://vk.com/pufferfishio)
+## [🤖 VK БОТ](https://vk.com/pufferfishio)
 
 ---
 
-# [![GitHub mark](assets/images/github-mark-white_100.png) GitHub](https://github.com/pufferfish-io)
+## [![GitHub mark](assets/images/github-mark-white_100.png) GitHub](https://github.com/pufferfish-io)
 
 ---
 
