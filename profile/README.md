@@ -8,16 +8,11 @@
 
 ![схема](assets/images/dgrm_pufferfish.png)
 
-## 🔗 GitHub pet-проект
+# [🤖 Telegram БОТ](https://t.me/pufferfish_io_bot)
 
-> [![GitHub mark](assets/images/github-mark-white_100.png)](https://github.com/pufferfish-io)
->
-> [**Pufferfish на GitHub**](https://github.com/pufferfish-io) — pet-проект с открытым кодом, где можно посмотреть исходники и релизы.
+# [🤖 VK БОТ](https://vk.com/pufferfishio)
 
-# 🤖 Боты
-
-- [Telegram Bot](https://t.me/pufferfish_io_bot)
-- [VK Bot](https://vk.com/pufferfishio)
+# [![GitHub mark](assets/images/github-mark-white_100.png) GitHub](https://github.com/pufferfish-io)
 
 ## 🎯 Цель проекта
 
@@ -83,6 +78,6 @@
 <br>
 <br>
 
-| Автор Pufferfish                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![фото автора](assets/images/alibekov.png)<br>[+7 926 395‑88‑97](tel:+7 926 395‑88‑97)<br>[alibekov.dev@gmail.com](mailto:alibekov.dev@gmail.com)<br>[Telegram@alibekov_dev](https://t.me/alibekov_dev)<br>[Резюме на  hh.ru](https://hh.ru/resume/7ca1d8ecff0fad4d7d0039ed1f3339686c6d38) |
+| Автор Pufferfish                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![фото автора](assets/images/alibekov.png)<br>[+7 926 395‑88‑97](tel:+7 926 395‑88‑97)<br>[alibekov.dev@gmail.com](mailto:alibekov.dev@gmail.com)<br>[Telegram@alibekov_dev](https://t.me/alibekov_dev)<br>[Резюме на hh.ru](https://hh.ru/resume/7ca1d8ecff0fad4d7d0039ed1f3339686c6d38) |
